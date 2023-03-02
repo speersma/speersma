@@ -1,9 +1,13 @@
 # Who Am I?
-- 👋 Hi, I’m @speersma. I am a graduate student studying criminal justice and computational mathematics.
-- 👀 I’m interested in the application of spatial crime data to agent-based modeling techniques. I'm interested in building advanced agent-based models that incorporate theoretically relevant agent attributes
-- 🌱 I’m currently learning methods of computational modeling using python
-- 💞️ I’m looking to collaborate on any projects that incorporate interesting data (especially spatial data)
-- 📫 How to reach me: speersma@gmail.com
+- 👋 Hi, I’m @speersma. 
+- I am a coder that studied criminal justice and computational mathematics in graduate school. 
+- I'm interested in working in data analytics and data science.
+- Projects completed
+  - Agent-based model of the theoretical propositions of routine-activities theory 
+  - Developed python scripts that construct and train an artificial neural network (ANN) using Pytorch. This ANN was used to predict reoffending dyads of domstic violence abusers and victims
+  - Developed python scripts that construct and train a cross-validated logistic regression using Sci-Kit Learn.
+  - Comparative quantitative analysis of the specificity and sensitivity of a domestic violence risk assessment across several algorithms/predictive models.
+- How to reach me: speersma@gmail.com
 
 <!---
 speersma/speersma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
