@@ -1,7 +1,7 @@
 # Who Am I?
 - 👋 Hi, I’m @speersma. 
 - I am a coder that studied criminal justice and computational mathematics in graduate school. 
-- I'm interested in working in data analytics and data science.
+- I'm interested in working in data analytics, data science, and software development.
 - Projects completed
   - Agent-based model of the theoretical propositions of routine-activities theory 
   - Developed python scripts that construct and train an artificial neural network (ANN) using Pytorch. This ANN was used to predict reoffending dyads of domstic violence abusers and victims
