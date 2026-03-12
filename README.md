@@ -1,8 +1,8 @@
 # Who Am I?
 - 👋 Hi, I’m @speersma. 
-- I am an adept data-driven scientist that:
+- I am an adept and data-driven scientist that:
   - Studied criminal justice and computational mathematics in graduate school
-  - Has spent three years developing several critical skills as a professional data scientist
+  - Has spent years developing several critical skills as a professional data scientist
 - Since graduate school I have worked for three years as a predictive modeler. During this time I've gained experience:
   - Developing and maintaining productionized python applications
   - Combining embedding models and string metrics for entity resolution
