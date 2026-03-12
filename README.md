@@ -10,7 +10,7 @@
   - Working as a project lead responsible for:
     - Sheparding a project from the business objective stage to a final deliverable
     - Regularly communicating progress to technical and non-technical stakeholders
-    - Data pipeline development
+    - Data pipeline development (SQL & SSIS)
 - I'm interested in pursuing a career at the intersection of modeling and software development for a company that contributes beneficial and actionable knowledge to society. 
 - Other Projects completed
   - Agent-based model of the theoretical propositions of routine-activities theory 
